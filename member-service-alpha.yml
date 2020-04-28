@@ -2,4 +2,4 @@ spring:
    profiles: alpha
    message: Hello Spring MemberService Alpha Server. changed-2
 user:
-   password: {cipher}AQB/yjWrkrfG9TwphDajcMy14j5QKO1w+Mf7R58MjC/mA/D8axlcJhrP4gc13zD5vuyFydvbus23vXpR9rD4ZoDi+g1QSdip/B3Y89fkg/ZtdXPJd9HhsN5LrLuO3Trn+sIFeAyogc4mr4Nzyrk673iVTytBHSy2XlYKEBfztc1q9G/9tbX//LE4IeyCLkYHWq6UO7Uz5VuzaBC58mCKWXyPAjKLvl/akWLixElcK7jIjleHacoUFl1szVlZydFUn2YzSuPgobvWY6g053eeEODnCoyebGx+4Oul4OO+LTVKmrjO1xOWC4OskXlbVtxLGGLoxRX8tfS1G3x69TcfXcwJ0waH6+DxBlZVoBSv7v63xJ+OQ++OcToTDqB27udwIRc=
+   password: '{cipher}AQB/yjWrkrfG9TwphDajcMy14j5QKO1w+Mf7R58MjC/mA/D8axlcJhrP4gc13zD5vuyFydvbus23vXpR9rD4ZoDi+g1QSdip/B3Y89fkg/ZtdXPJd9HhsN5LrLuO3Trn+sIFeAyogc4mr4Nzyrk673iVTytBHSy2XlYKEBfztc1q9G/9tbX//LE4IeyCLkYHWq6UO7Uz5VuzaBC58mCKWXyPAjKLvl/akWLixElcK7jIjleHacoUFl1szVlZydFUn2YzSuPgobvWY6g053eeEODnCoyebGx+4Oul4OO+LTVKmrjO1xOWC4OskXlbVtxLGGLoxRX8tfS1G3x69TcfXcwJ0waH6+DxBlZVoBSv7v63xJ+OQ++OcToTDqB27udwIRc='
