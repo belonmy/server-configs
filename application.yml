@@ -1,4 +1,0 @@
-rabbitmq:
-  test:
-    uri: http://192.168.88.250:50001
-    
